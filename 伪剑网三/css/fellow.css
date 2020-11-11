@@ -1,0 +1,266 @@
+#central{
+	width: 100%;
+	height: 2400px;
+	background: url("../img/xfe-layer-2-7afdecb2.jpg.webp") no-repeat;
+	background-size: 100% 100%;
+	position: relative;
+}
+#central nav{
+	width: 80%;
+	margin: 0 auto;
+	position: relative;
+}
+#central nav>div{
+	width: 58%;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+#central nav>div>div{
+	width: 12.5%;
+	height: 220px;
+	float: left;
+	cursor: pointer;
+}
+#central nav>div>div:nth-of-type(1){
+	background: url("../img/xfe-layer-4-8ee66cbc.png.webp") no-repeat;
+	background-size: 100%;
+}
+#central nav>div>div:nth-of-type(1):hover{
+	background: url("../img/xfe-layer-4-1-d92f8667.png.webp") no-repeat;
+	background-size: 100%;
+	animation: rotate 500ms linear forwards;
+}
+#central nav>div>div:nth-of-type(2){
+	background: url("../img/xfe-layer-5-d11f81c0.png.webp") no-repeat;
+	background-size: 100%;
+}
+#central nav>div>div:nth-of-type(2):hover{
+	background: url("../img/xfe-layer-5-1-c303ce82.png.webp") no-repeat;
+	background-size: 100%;
+	animation: rotate 500ms linear forwards;
+}
+#central nav>div>div:nth-of-type(3){
+	background: url("../img/xfe-layer-11-383d861d.png.webp") no-repeat;
+	background-size: 100%;
+}
+#central nav>div>div:nth-of-type(3):hover{
+	background: url("../img/xfe-layer-11-1-fec7ae1c.png.webp") no-repeat;
+	background-size: 100%;
+	animation: rotate 500ms linear forwards;
+}
+#central nav>div>div:nth-of-type(4){
+	background: url("../img/xfe-layer-9-3ef0aeab.png.webp") no-repeat;
+	background-size: 100%;
+}
+#central nav>div>div:nth-of-type(4):hover{
+	background: url("../img/xfe-layer-9-1-fa2be5c4.png.webp") no-repeat;
+	background-size: 100%;
+	animation: rotate 500ms linear forwards;
+}
+#central nav>div>div:nth-of-type(5){
+	background: url("../img/xfe-layer-6-365891b1.png.webp") no-repeat;
+	background-size: 100%;
+}
+#central nav>div>div:nth-of-type(5):hover{
+	background: url("../img/xfe-layer-6-1-377f4e43.png.webp") no-repeat;
+	background-size: 100%;
+	animation: rotate 500ms linear forwards;
+}
+#central nav>div>div:nth-of-type(6){
+	background: url("../img/xfe-layer-7-2ed23526.png.webp") no-repeat;
+	background-size: 100%;
+}
+#central nav>div>div:nth-of-type(6):hover{
+	background: url("../img/xfe-layer-7-1-f5e470be.png.webp") no-repeat;
+	background-size: 100%;
+	animation: rotate 500ms linear forwards;
+}
+#central nav>div>div:nth-of-type(7){
+	background: url("../img/xfe-layer-8-4862327f.png.webp") no-repeat;
+	background-size: 100%;
+}
+#central nav>div>div:nth-of-type(7):hover{
+	background: url("../img/xfe-layer-8-1-b425ad92.png.webp") no-repeat;
+	background-size: 100%;
+	animation: rotate 500ms linear forwards;
+}
+#central nav>div>div:nth-of-type(8){
+	background: url("../img/xfe-layer-43-4ebceee9.png.webp") no-repeat;
+	background-size: 100%;
+}
+#central nav>div>div:nth-of-type(8):hover{
+	background: url("../img/xfe-layer-43-1-7816ce78.png.webp") no-repeat;
+	background-size: 100%;
+	animation: rotate 500ms linear forwards;
+}
+#central>a>img{
+	position: absolute;
+	top: 600px;
+	left: 7%;
+}
+#central>img{
+	position: absolute;
+	top: 650px;
+	left: 47%;
+	animation: mouse-down 1.5s linear infinite;
+}
+#central .match{
+	width: 80%;
+	height: 140px;
+	position: absolute;
+	top: 800px;
+	left: 10%;
+	background: url("../img/xfe-layer-29-346e6a39.png.webp") no-repeat;
+	background-size: 100%;
+}
+#central .match div{
+	width: 88%;
+	height: 100px;
+	position: absolute;
+	top: 22px;
+	left: 10%;
+	background: url("../img/xfe-layer-30-3ce39767.png.webp") no-repeat;
+	background-size: 100% 100%;
+}
+#central .prize{
+	width: 80%;
+	height: 400px;
+	position: absolute;
+	top:990px;
+	left: 10%;
+}
+#central .prize .prize_title{
+	width: 100%;
+	height: 100px;
+	background: url("../img/xfe-group-5-25fc8d7f.png.webp") no-repeat;
+	background-size: 100%;
+}
+#central .prize .prize_left{
+	width: 48%;
+	height: 300px;
+	float: left;
+	cursor: pointer;
+}
+#central .prize .prize_left img{
+	width: 100%;
+	height: 300px;
+}
+#central .prize .prize_right{
+	width: 48%;
+	height: 300px;
+	float: right;
+}
+#central .prize .prize_right img{
+	width: 48%;
+	height: 140px;
+	margin:  0 0 10px;
+	float: left;
+}
+#central .media{
+	width: 80%;
+	height: 300px;
+	position: absolute;
+	bottom: 500px;
+	left: 10%;
+}
+#central .media .title{
+	width: 100%;
+	height: 100px;
+	background: url("../img/xfe-layer-32-340907c1.png.webp") no-repeat;
+	background-size: 100%;
+}
+#central .media div:last-of-type{
+	width: 100%;
+}
+#central .media>div:last-of-type>img{
+	width: 18%;
+	margin: 0 22% 0 0;
+	cursor: pointer;
+}
+#central .media>div:last-of-type>img:last-of-type{
+	margin: 0;
+}
+#central .media>div:last-of-type>img:hover{
+	animation: gup 1s linear forwards;
+}
+#central .media>div:last-of-type div{
+	width: 60%;
+	margin: 0 auto;;
+}
+#central .media div:last-of-type div img{
+	width: 34%;
+	float: right;
+	cursor: pointer;
+}
+#central .media div:last-of-type div img:first-of-type{
+	float: left;
+}
+#central .media div:last-of-type div img:hover{
+	animation: gup 1s linear forwards;
+}
+#central .brand{
+	width: 80%;
+	height: 240px;
+	position: absolute;
+	bottom: 250px;
+	left: 10%;
+}
+#central .brand .title{
+	width: 100%;
+	height: 100px;
+	background: url("../img/xfe-layer-32-2-cef6f614.png.webp") no-repeat;
+	background-size: 100%;
+}
+#central .brand div:last-of-type{
+	width: 70%;
+	margin: 0 auto;
+}
+#central .brand div:last-of-type img{
+	width: 40%;
+	cursor: pointer;
+}
+#central .brand div:last-of-type img:first-of-type{
+	margin: 0 19% 0 0;
+}
+#central .brand div:last-of-type img:hover{
+	animation: gup 1s linear forwards;
+}
+#central .person{
+	width: 80%;
+	height: 210px;
+	position: absolute;
+	bottom:10px;
+	left: 10%;
+	background: url("../img/xfe-layer-42-e79bc4da.png.webp") no-repeat;
+	background-size: 100%;
+}
+
+
+
+@keyframes rotate{
+	from{
+		transform: rotateY(0deg);
+	}
+	to{
+		transform: rotateY(360deg);
+	}
+}
+@keyframes mouse-down{
+	from{
+		opacity: 0;
+		transform: translateY(0px);
+	}
+	to{
+		opacity: 1;
+		transform: translateY(8px);
+	}
+}
+@keyframes gup{
+	from{
+		transform: translateY(0px);
+	}
+	to{
+		transform: translateY(-8px);
+	}
+}
